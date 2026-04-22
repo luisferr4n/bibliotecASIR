@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="formato.xsl"?>
+<biblioteca>
+    <libro id="l1">
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <anio>1949</anio>
+        <paginas>328</paginas>
+        <sinopsis>Una distopía sobre un régimen totalitario que controla todos los aspectos de la vida.</sinopsis>
+    </libro>
+
+    <libro id="l2">
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <anio>1605</anio>
+        <paginas>863</paginas>
+        <sinopsis>Las aventuras de un hidalgo que cree ser caballero andante.</sinopsis>
+    </libro>
+
+    <libro id="l3">
+        <titulo>El Hobbit</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <anio>1937</anio>
+        <paginas>310</paginas>
+        <sinopsis>La historia de Bilbo Bolsón en una aventura inesperada.</sinopsis>
+    </libro>
+</biblioteca>
