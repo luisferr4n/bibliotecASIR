@@ -1,2 +1,2 @@
 # bibliotecASIR
-Ejercicio de clase basado en una biblioTK
+Ejercicio de clase basado en una biblioteca
